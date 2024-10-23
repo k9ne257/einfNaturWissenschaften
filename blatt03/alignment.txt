@@ -1,0 +1,4 @@
+Score: 3
+LGT-Alignment:
+ATGCG-
+ATCCGC
